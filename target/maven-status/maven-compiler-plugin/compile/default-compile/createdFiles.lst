@@ -1,0 +1,9 @@
+com\server\constants\ConstsCfg.class
+com\server\services\ifcs\ServerServiceIfc.class
+com\server\services\impls\ServerSingleton.class
+com\server\config\ExecutorCfg.class
+com\server\ServerApp.class
+com\server\controllers\ServerController.class
+com\server\services\impls\ServerServiceImpl.class
+com\server\entities\ClientDetail.class
+com\server\entities\CLientDetailsIfc.class
